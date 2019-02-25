@@ -1,0 +1,13 @@
+
+.sidebar{
+  display: block;
+}
+
+.link-form,.crud-table{
+  margin-top: 30px;
+}
+
+.photo-edit-admin{
+  margin-top: 10px;
+}
+
